@@ -16,3 +16,18 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+---
+
+## Secció de prova bàsica
+
+Aquesta és una pàgina per demostrar la **sintaxi bàsica** de Markdown.
+
+Elements que m'interessen:
+* *La ciberseguretat*
+* El desenvolupament web
+* La intel·ligència artificial
+
+Aquest és un enllaç al meu [Codeberg](https://codeberg.org/NilNaranjo).
+
+I això és un `tros de codi petit` en línia.

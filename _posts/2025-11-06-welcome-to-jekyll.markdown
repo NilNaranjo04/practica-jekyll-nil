@@ -27,3 +27,25 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+## Secció de prova avançada
+
+> Això és una cita textual (blockquote). Molt útil per a destacar frases importants.
+
+### Taula d'elements
+
+| Eina         | Utilitat         |
+|--------------|------------------|
+| Nmap         | Escaneig de xarxes |
+| Wireshark    | Anàlisi de tràfic |
+| Metasploit   | Explotació         |
+
+### Bloc de codi
+
+Això és un exemple de com executar un script de Python:
+
+```python
+def hola_mon():
+  print("Hola, ciberseguretat!")
+
+hola_mon()
